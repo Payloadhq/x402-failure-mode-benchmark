@@ -87,3 +87,9 @@ Built by [Payload](https://payloadhq.github.io/).
 
 Benchmark code and results: MIT. The implementations under test keep their own
 licenses (Payload kit: commercial; x402 packages: Apache-2.0).
+
+---
+
+**More from Payload** · [payloadhq.github.io](https://payloadhq.github.io/) · [all Payload repos](https://github.com/Payloadhq)
+
+Related: [x402-manifest-check](https://github.com/Payloadhq/x402-manifest-check) · [callx402](https://github.com/Payloadhq/callx402) · [x402-observatory](https://github.com/Payloadhq/x402-observatory)
