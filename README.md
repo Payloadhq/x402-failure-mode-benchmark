@@ -11,8 +11,9 @@ The failure modes come from ["x402 in production: the failure modes nobody
 warns you about"](https://dev.to/payload-tools/x402-in-production-the-failure-modes-nobody-warns-you-about-366o).
 
 **Implementations under test:** Payload x402 Paid API Starter Kit 1.0.0
-(commercial kit, extracted ZIP) · x402-hono 1.2.0 (npm, deprecated v1 package)
-· @x402/express 2.28.0 (npm, @x402/express + @x402/core + @x402/evm).
+(commercial kit, extracted ZIP; since renamed the Veyline Developer Primer) ·
+x402-hono 1.2.0 (npm, v1-generation package) ·
+@x402/express 2.28.0 (npm, @x402/express + @x402/core + @x402/evm).
 
 ## Results (measured 2026-10-03)
 
